@@ -1,6 +1,5 @@
 # Encrypted Chat App
 
-**Spring 2025 | GitHub**
 
 A secure, real-time messaging application built with modern web technologies for encrypted communication.
 
