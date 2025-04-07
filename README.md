@@ -40,5 +40,5 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/encrypted-chat-app.git
+   git clone https://github.com/koliangyu99/encrypted-chat-app.git
    cd encrypted-chat-app
