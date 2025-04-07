@@ -7,7 +7,7 @@ A secure, real-time messaging application built with modern web technologies for
 
 ## Overview
 
-The Encrypted Chat App is designed for instant messaging with a strong emphasis on security. Leveraging Node.js and WebSocket, the app provides real-time communication while ensuring that all messages are protected using AES encryption. Built to support high user concurrency, this application is robust enough to handle over 500 simultaneous users with a message delivery success rate exceeding 99.9%.
+The Encrypted Chat App is designed for instant messaging with a strong emphasis on security. Leveraging Node.js and WebSocket, the app provides real-time communication while ensuring that all messages are protected using AES encryption. Built to support high user concurrency, this application is robust enough to handle over 50 simultaneous users with a message delivery success rate exceeding 99.9%.
 
 ---
 
