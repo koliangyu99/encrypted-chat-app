@@ -1,7 +1,7 @@
 # Encrypted Chat App
 
 
-A secure, real-time messaging application built with modern web technologies for encrypted communication.
+A secure, real-time messaging application built with modern web technologies for encrypted communication. 
 
 ---
 
